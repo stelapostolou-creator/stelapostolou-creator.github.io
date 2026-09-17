@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "gr.zstop.swhepos",
-        "sha256_cert_fingerprints": ["17:B4:43:3A:5D:D6:85:88:06:3F:2C:40:21:65:D4:82:A3:C2:A1:29:BE:B3:EB:EF:AF:C9:9F:6F:C2:79:A4:BA"]
+        "sha256_cert_fingerprints": ["F1:1E:5E:9E:A5:64:60:2E:CD:C7:63:84:71:18:E7:E3:3A:8A:0C:BA:8E:0B:B0:AC:20:74:12:04:89:0A:4C:03"]
       }
     }]

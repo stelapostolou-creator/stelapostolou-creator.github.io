@@ -5,4 +5,12 @@
         "package_name": "gr.zstop.swhepos",
         "sha256_cert_fingerprints": ["F1:1E:5E:9E:A5:64:60:2E:CD:C7:63:84:71:18:E7:E3:3A:8A:0C:BA:8E:0B:B0:AC:20:74:12:04:89:0A:4C:03"]
       }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "gr.zstop.swhelper",
+        "sha256_cert_fingerprints": ["5B:D0:82:E1:24:5F:B9:0A:2A:EE:73:05:4E:1D:84:90:6A:56:76:B7:BE:29:37:FA:47:03:77:51:23:87:A0:07"]
+      }
     }]
